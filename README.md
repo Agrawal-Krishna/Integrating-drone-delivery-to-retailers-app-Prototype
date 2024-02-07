@@ -57,7 +57,7 @@ Timeline- The team will work on 2-week sprints. For the creation of the prototyp
     </td>
     <td>
       <a href="https://www.figma.com/proto/HHZjbyNCzMCypGO0lXZPpn/DSW?node-id=362-2529&starting-point-node-id=362%3A2529&scaling=scale-down&mode=design&t=rBD6cqijdj1dPADF-1">
-        <img src="https://github.com/Agrawal-Krishna/Agrawal-Krishna/blob/main/Screenshot%202024-02-06%20222201.png" alt="Design Screenshot" width="20%" style="max-width:100%;">
+        <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/Screenshot%202024-02-06%20222201.png" alt="Design Screenshot" width="20%" style="max-width:100%;">
       </a>
     </td>
   </tr>

@@ -2,12 +2,14 @@
 
 
 
-# Overview - 
-We will discuss how our original problem was reframed based on customer behavior, experiences, and interviews. 
+
+
 # Original Problem: 
 ‘Big box retailers want to attract more Millennials/Gen Y customers’. 
+
 Customer Centric Reframing: ‘Young working Millennials want big box retailers to better meet their shopping needs’.
-Product Vision Statement: To enhance the big box customers shopping experience by faster, efficient, and sustainable product delivery.
+# Product Vision Statement: 
+To enhance the big box customers shopping experience by faster, efficient, and sustainable product delivery.
 # The Solution- 
 We want to deliver a smooth seamless delivery service to the customer. We envision the drone to fly with a carriage that stores the product.
 # The Challenges -
@@ -48,7 +50,18 @@ Return Initiation screen – The user will be able to quickly return products wi
 
 Timeline- The team will work on 2-week sprints. For the creation of the prototype, we will be beginning with the high difficulty sections moving on to the low difficulty.
 
-
+<table>
+  <tr>
+    <td valign="top">
+      <i>Click on the image to navigate to prototype </i>.
+    </td>
+    <td>
+      <a href="https://www.figma.com/proto/HHZjbyNCzMCypGO0lXZPpn/DSW?node-id=362-2529&starting-point-node-id=362%3A2529&scaling=scale-down&mode=design&t=rBD6cqijdj1dPADF-1">
+        <img src="https://github.com/Agrawal-Krishna/Agrawal-Krishna/blob/main/Screenshot%202024-02-06%20222201.png" alt="Design Screenshot" width="20%" style="max-width:100%;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 # Highlights- 
 Though we had various concepts in consideration, Drone delivery stood out as we were able to target business and human needs that are feasible, and viable. Drone delivery has the potential to solve several of the pain points faced by customers, especially young working millennials before, during, and after shopping. With drone delivery, customers no longer need to worry about finding a parking spot or having limited time to visit a store. They can easily order products online and receive their deliveries within a short period of time, eliminating the need to wait in long checkout queues and reducing the high delivery charges often associated with online shopping. Improving customer satisfaction and experience is a top priority for us. Overall, drone delivery has the potential to revolutionize the way we shop and deliver goods, making it a game-changer in the delivery industry.

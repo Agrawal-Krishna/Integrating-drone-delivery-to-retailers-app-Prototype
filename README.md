@@ -1,11 +1,11 @@
 # Drone delivery app for retailers
 
 <p align="center">
-  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/1.png" alt="Image 1" width="40%" />
-  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/2.png" alt="Image 2" width="40%" />
-  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/3.png" alt="Image 3" width="40%" />
-  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/4.png" alt="Image 4" width="40%" />
-  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/5.png" alt="Image 5" width="40%" />
+  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/1.png" alt="Image 1" width="50%" />
+  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/2.png" alt="Image 2" width="50%" />
+  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/3.png" alt="Image 3" width="50%" />
+  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/4.png" alt="Image 4" width="50%" />
+  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/5.png" alt="Image 5" width="50%" />
 </p>
 
 # Prototype

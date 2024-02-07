@@ -1,18 +1,29 @@
-# Mobile-app-drone-delivery-prototype
+# Drone delivery app for retailers
 
+<p align="center">
+  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/1.png" alt="Image 1" width="40%" />
+  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/2.png" alt="Image 2" width="40%" />
+  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/3.png" alt="Image 3" width="40%" />
+  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/4.png" alt="Image 4" width="40%" />
+  <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/5.png" alt="Image 5" width="40%" />
+</p>
 
+# Prototype
+click the image to view the Figma prototype
 
+ <a href="https://www.figma.com/proto/HHZjbyNCzMCypGO0lXZPpn/DSW?node-id=362-2529&starting-point-node-id=362%3A2529&scaling=scale-down&mode=design&t=rBD6cqijdj1dPADF-1">
+        <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/Screenshot%202024-02-06%20222201.png" alt="Design Screenshot" width="20%" style="max-width:100%;">
+      </a>
 
-
-# Original Problem: 
+# Original Problem 
 ‘Big box retailers want to attract more Millennials/Gen Y customers’. 
 
 Customer Centric Reframing: ‘Young working Millennials want big box retailers to better meet their shopping needs’.
-# Product Vision Statement: 
+# Product Vision Statement 
 To enhance the big box customers shopping experience by faster, efficient, and sustainable product delivery.
-# The Solution- 
+# The Solution
 We want to deliver a smooth seamless delivery service to the customer. We envision the drone to fly with a carriage that stores the product.
-# The Challenges -
+# The Challenges
 We will elaborate on unforeseen challenges in the viability of the solution. As Drone delivery is a novel technology there are some logistic challenges that need to be addressed. In recent times drones have become a more prevalent technology and innovations that suits are needed. Following are the challenges faced and raised since the last presentation.
 
 - Since it’s a nascent product we plan to launch it in Suburban and rural America first. As per American Housing survey (AHS), 52% households are in suburban and 21% in rural. 90% of the US population stays 10 miles from a Walmart store, 75% for Target. The network effect of the big box retailers has access to the customers and drone delivery will be providing them with a competitive edge.
@@ -26,7 +37,7 @@ The Drones will be operating from a separate dedicated Sub section of the big bo
 - The Application will only show drone delivery option if it is available in the customer zip code (taken from their address) 
 
 
-# Prototype- 
+# Prototype
 Our team will be making a Clickable high fidelity visual with focus on the following use cases:
 
 Login screen – The user will be able to login using their preferred social media login and strong password. Login provides security and quick access to the products on the site.
@@ -50,21 +61,8 @@ Return Initiation screen – The user will be able to quickly return products wi
 
 Timeline- The team will work on 2-week sprints. For the creation of the prototype, we will be beginning with the high difficulty sections moving on to the low difficulty.
 
-<table>
-  <tr>
-    <td valign="top">
-      <i>Click on the image to navigate to prototype </i>.
-    </td>
-    <td>
-      <a href="https://www.figma.com/proto/HHZjbyNCzMCypGO0lXZPpn/DSW?node-id=362-2529&starting-point-node-id=362%3A2529&scaling=scale-down&mode=design&t=rBD6cqijdj1dPADF-1">
-        <img src="https://github.com/Agrawal-Krishna/Mobile-app-drone-delivery-prototype/blob/main/Screenshot%202024-02-06%20222201.png" alt="Design Screenshot" width="20%" style="max-width:100%;">
-      </a>
-    </td>
-  </tr>
-</table>
-
-# Highlights- 
+# Highlights 
 Though we had various concepts in consideration, Drone delivery stood out as we were able to target business and human needs that are feasible, and viable. Drone delivery has the potential to solve several of the pain points faced by customers, especially young working millennials before, during, and after shopping. With drone delivery, customers no longer need to worry about finding a parking spot or having limited time to visit a store. They can easily order products online and receive their deliveries within a short period of time, eliminating the need to wait in long checkout queues and reducing the high delivery charges often associated with online shopping. Improving customer satisfaction and experience is a top priority for us. Overall, drone delivery has the potential to revolutionize the way we shop and deliver goods, making it a game-changer in the delivery industry.
 
-# Conclusion - 
+# Conclusion 
 We will share some of the progress made in the creation of the Prototype of the App.
